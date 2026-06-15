@@ -8,7 +8,7 @@
 2. Added project files including README.md, .gitignore, and team-profile.md.
 3. Set up the repository structure and invited team members.
 
-### What We Learned
+### What We Learneds
 
 1. How to create and manage a GitHub repository.
 2. How to create folders and Markdown files in GitHub.
