@@ -29,8 +29,8 @@
   - docs/team-profile.md
   - docs/weekly-logbook.md
 
-- Commit link: https://github.com/yourusername/ICT105-TeamName-MVP/commit/your-commit-id
-
+- Commit link:[ https://github.com/yourusername/ICT105-TeamName-MVP/commit/your-commit-id
+](https://github.com/arkarmoeandrew/ICT105-Quartet-MVP/commit/6b961da160f827f39d8308bbdc4a393b7e7bf342)
 ### Decision Made This Week
 
 The team decided to use GitHub as the central platform for collaboration and project management.
