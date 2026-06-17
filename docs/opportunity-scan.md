@@ -29,3 +29,5 @@
 | Idea 4 | Matching Platform | React, Firebase | Student profiles, skills, interests | Medium | Yes |
 | Idea 5 | Dashboard MVP | HTML, CSS, JavaScript, Firebase | Internship applications and status records | Low | Yes |
 | Idea 6 | Information Management System | React, Supabase | Event details, registrations, schedules | Medium | Yes |
+
+https://1drv.ms/x/c/92c2a7144640f4f9/IQAGW2ptzoysS5sjqnbLsMllAUR1pWZ5_Ix_ar3OTusSuAo?e=6hs3yY
