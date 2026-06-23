@@ -85,3 +85,40 @@ Although useful, similar solutions already exist through Facebook groups and cam
 ### Plan for Lab 03
 
 The team will conduct customer discovery interviews with university students and campus club members. We will prepare interview questions, collect feedback, validate the problem, and determine whether students would actively use a campus resource-sharing platform.
+
+## Lab 03: Customer Problem Discovery
+
+### What We Completed
+
+1. Defined target respondents.
+2. Created customer discovery questions.
+3. Collected sample interview responses.
+4. Built assumption-evidence analysis.
+5. Identified repeated patterns and pain points.
+6. Updated GitHub documentation.
+
+### What We Learned
+
+1. The importance of validating assumptions.
+2. How students currently solve resource-sharing problems.
+3. How evidence supports product decisions.
+
+### Problems or Difficulties
+
+1. Limited access to respondents.
+2. Difficulty collecting consistent responses.
+
+### Evidence of Work
+
+- customer-questions.md
+- raw-responses.xlsx
+- assumption-evidence-table.md
+- customer-discovery-summary.md
+
+### Decision Made This Week
+
+Continue developing RSUNexus and focus on resource-sharing and skill-sharing features.
+
+### Plan for Next Week
+
+Create wireframes and MVP prototype for RSUNexus.
