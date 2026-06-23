@@ -1,37 +1,60 @@
 # Problem Notes
 
-## Problem Context
+## Selected Case
 
-University students frequently require access to academic resources, technical equipment, and specialized skills to complete coursework, projects, research activities, and extracurricular initiatives. However, these resources are often scattered across individuals, student clubs, and informal networks, making them difficult to discover and access efficiently.
+RSUNexus – Campus Resource Sharing and Skill Exchange Platform
 
-## Resource Accessibility Challenges
+## Target Respondents
 
-Many students need temporary access to resources such as calculators, DSLR cameras, Arduino kits, laboratory equipment, textbooks, and software tools. Purchasing these resources for short-term academic use can be financially burdensome and often unnecessary.
+| Respondent Type | Why This Respondent Matters | Planned Number | Actual Number |
+|---|---|---:|---:|
+| First-Year Students | Frequently need academic resources and campus guidance | 5 | 5 |
+| Senior Students | Often own resources and can provide assistance | 4 | 4 |
+| Student Club Members | Regularly borrow and share equipment | 3 | 3 |
+| Students with Technical Skills | Potential service providers on the platform | 3 | 3 |
 
-## Inefficient Resource Discovery
+## Observed / Reported Problem
 
-Students currently rely on informal channels such as Facebook groups, messaging applications, and personal connections to locate resources or seek assistance. These methods are fragmented, unstructured, and often fail to provide timely or reliable results.
+Students often struggle to find academic resources, equipment, and skilled peers when needed. Information is scattered across Facebook groups, LINE chats, Discord servers, and personal networks, making it difficult to discover available resources quickly and reliably.
 
-## Underutilized Campus Resources
+## Current Alternatives or Workarounds
 
-A significant number of students possess valuable equipment, knowledge, and skills that remain underutilized because there is no centralized platform that facilitates resource sharing within the university community.
+| Workaround | Who Uses It? | Weakness / Pain | Evidence Source |
+|---|---|---|---|
+| Facebook Groups | Most students | Posts disappear quickly and are difficult to search | Interview |
+| LINE / Messenger Chats | Students and friends | Information is scattered across multiple groups | Interview |
+| Personal Networks | All students | Depends on who you know personally | Interview |
+| Student Clubs | Club members | Limited visibility outside club members | Interview |
+| Asking Seniors Directly | Junior students | Time-consuming and inconsistent | Interview |
 
-## Peer Support Limitations
+## Repeated Pain Points
 
-Students frequently require support in areas such as programming, graphic design, video editing, tutoring, and project collaboration. Existing methods for finding peer assistance lack transparency, organization, and trust mechanisms.
+| Pain Point | Number of Mentions | Example Evidence | Severity |
+|---|---:|---|---|
+| Scattered information channels | 10 | Students search multiple chat groups before finding help | High |
+| No centralized resource directory | 9 | Students do not know who owns available equipment | High |
+| Difficulty finding skilled peers | 8 | Students struggle to find tutors or project partners | High |
+| Slow response times | 7 | Students wait hours or days for replies | Medium |
+| Limited visibility of campus resources | 6 | Equipment exists but students do not know about it | Medium |
 
-## Current Alternatives
+## Consequences
 
-- Facebook Groups
-- Discord Communities
-- Messaging Applications
-- Personal Friend Networks
-- Student Club Networks
+| Consequence | Example | Evidence Strength |
+|---|---|---|
+| Delayed assignment completion | Students cannot access required resources on time | Strong |
+| Increased project stress | Students spend extra time searching for help | Strong |
+| Underutilized campus resources | Equipment remains unused despite demand | Moderate |
+| Missed collaboration opportunities | Students cannot connect with capable peers | Moderate |
 
-## Opportunity Identified
+## Notes for MVP Direction
 
-There is an opportunity to develop a university-exclusive platform that enables students to share resources, lend equipment, offer skills, and connect with peers through a structured and trusted ecosystem. Such a platform can improve accessibility, reduce costs, encourage collaboration, and strengthen the overall student community experience.
+The MVP should focus on:
 
-## Proposed Solution Direction
+- Student authentication using university email.
+- Resource and equipment listings.
+- Skill-sharing profiles.
+- Search and filter functionality.
+- Borrow/request workflow.
+- Simple messaging or contact request system.
 
-RSUSphere will provide a centralized digital platform where students can discover available resources, request items, offer skills, and manage interactions within a secure university-verified environment using RSU student credentials.
+The initial MVP should prioritize resource discovery and skill matching before adding advanced marketplace features.
