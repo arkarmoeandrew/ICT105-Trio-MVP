@@ -33,7 +33,7 @@ Students often struggle to find academic resources, equipment, and student servi
 |---|---:|---|---|
 | Scattered information channels | 10 | Students search multiple chat groups before finding help | High |
 | No centralized resource directory | 9 | Students do not know who owns available equipment | High |
-| Difficulty finding student services | 8 | Students struggle to find tutors or project partners | High |
+| Difficulty finding student services or skilled classmates | 8 | Students struggle to find tutors or project partners | High |
 | Slow response times | 7 | Students wait hours or days for replies | Medium |
 | Limited visibility of campus resources | 6 | Equipment exists but students do not know about it | Medium |
 
@@ -44,7 +44,7 @@ Students often struggle to find academic resources, equipment, and student servi
 | Delayed assignment completion | Students cannot access required resources on time | Strong |
 | Increased project stress | Students spend extra time searching for help | Strong |
 | Underutilized campus resources | Equipment remains unused despite demand | Moderate |
-| Unable to find needed services | Students cannot connect with capable peers | Moderate |
+| Missed opportunities to connect with skilled students | Students cannot find classmates who can provide tutoring, programming help, design assistance, or other academic services. | Moderate |
 
 ## Notes for MVP Direction
 
@@ -52,9 +52,9 @@ The MVP should focus on:
 
 - Student authentication using university email.
 - Resource and equipment listings.
-- Student service profiles
+- Student service profiles and listings
 - Search and filter functionality.
 - Borrow/request workflow.
 - Simple messaging or contact request system.
 
-The initial MVP should prioritize resource discovery and skill matching before adding advanced marketplace features.
+The initial MVP should prioritize resource discovery and student service discovery before adding advanced marketplace features.
