@@ -6,7 +6,7 @@ RSU Nexus – Campus Equipment Lending & Student Services Marketplace
 
 ## Target User
 
-University students and campus club members who need temporary access to academic tools, equipment, study materials, or peer assistance.
+University students and campus club members who need temporary access to academic equipment or student services for coursework and projects.
 
 ### Who has the problem?
 
@@ -14,7 +14,7 @@ University students and campus club members.
 
 ## Problem Statement
 
-University students frequently need temporary access to academic equipment or skilled classmates for coursework and projects, but finding reliable resources on campus is often difficult, time-consuming, and unorganized.
+University students frequently need temporary access to academic equipment or student services for coursework and projects, but finding reliable providers on campus is often difficult, time-consuming, and unorganized.
 
 ### What problem does the user experience?
 
@@ -22,7 +22,7 @@ Students often spend significant time searching through Facebook groups, Discord
 
 ## Current Alternative
 
-Students currently rely on Facebook groups, Discord servers, LINE groups, friends, and personal networks to borrow equipment or find skilled classmates.
+Students currently rely on Facebook groups, Discord servers, LINE groups, friends, and personal networks to borrow equipment or find student service providers.
 
 ### How do users currently solve or manage this problem?
 
@@ -79,4 +79,4 @@ University students and campus club members.
 
 ### What question must be answered first?
 
-Do university students experience enough difficulty borrowing academic equipment and finding skilled classmates to justify a dedicated campus equipment and student services marketplace?
+Do university students experience enough difficulty borrowing academic equipment and finding student service providers to justify a dedicated campus equipment and student services marketplace?
