@@ -8,7 +8,7 @@
 2. Added project files including README.md, .gitignore, and team-profile.md.
 3. Set up the repository structure and invited team members.
 
-### What We Learneds
+### What We Learned
 
 1. How to create and manage a GitHub repository.
 2. How to create folders and Markdown files in GitHub.
@@ -21,7 +21,7 @@
 
 ### Evidence of Work
 
-- GitHub repository link: https://github.com/arkarmoeandrew/ICT105-Trio-MVP-.git
+- GitHub repository link: https://github.com/arkarmoeandrew/ICT105-Quartet-MVP.git
 - Screenshot: Repository setup screenshot attached.
 - File created:
   - README.md
@@ -49,7 +49,7 @@ For Lab 2, the team will conduct opportunity scanning, identify potential IT ven
 
 ### Selected Opportunity
 
-Campus Item Lending & Skill Sharing Platform
+RSU Nexus – Campus Resource Marketplace
 
 ### Why We Selected It
 
@@ -84,7 +84,7 @@ Although useful, similar solutions already exist through Facebook groups and cam
 
 ### Plan for Lab 03
 
-The team will conduct customer discovery interviews with university students and campus club members. We will prepare interview questions, collect feedback, validate the problem, and determine whether students would actively use a campus resource-sharing platform.
+The team will conduct customer discovery interviews with university students and campus club members. We will prepare interview questions, collect feedback, validate the problem and determine whether students would actively use the RSU Nexus Campus Resource Marketplace.
 
 ## Lab 03: Customer Problem Discovery
 
@@ -116,6 +116,5 @@ The team will conduct customer discovery interviews with university students and
 - customer-discovery-summary.md
 
 ### Decision Made This Week
-Continue developing RSUNexus and focus on resource-sharing and skill-sharing features.
-### Plan for Next Week
+Continue developing RSU Nexus – Campus Resource Marketplace and focus on equipment listings, student services, and request management features.### Plan for Next Week
 Create wireframes and MVP prototype for RSUNexus.
