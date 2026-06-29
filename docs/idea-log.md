@@ -7,7 +7,7 @@ University students frequently need short-term access to specialized tools (like
 University students and campus club members.
 
 ### Current Alternative
-Messy, unstructured posts on informal channels like Reddit, Discord servers, or Facebook groups where posts quickly get buried.
+Messy, unstructured posts on Facebook groups, Discord servers, LINE groups, and personal networks where information is easily lost.
 
 ### Proposed IT Solution
 An internal campus network web application requiring a student email login where students can list items they are willing to lend out (or skills they can offer) and request things they need, backed by a simple request/approval workflow.
