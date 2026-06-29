@@ -2,11 +2,11 @@
 
 ## Project Title
 
-RSUNexus: A Student Resource and Skill Sharing Platform for RSU
+RSUNexus: A Campus Equipment Lending and Student Services Marketplace for RSU
 
 ## Target Respondent
 
-RSU students who have experience searching for, borrowing, lending, or sharing academic resources, equipment, or peer support.
+RSU students who have experience borrowing or lending academic equipment, or hiring and providing student services such as tutoring, programming, graphic design, or video editing.
 
 ## Consent and Context
 
@@ -40,9 +40,9 @@ RSU students who have experience searching for, borrowing, lending, or sharing a
 
 ## Resource Sharing and Trust
 
-12. Do you own any equipment, resources, or skills that you would be willing to share with other students?
+12. Do you own any academic equipment or provide any student services that you would be willing to offer to other RSU students?
 
-13. What concerns would you have about lending items or offering help to other students?
+13. What concerns would you have about lending equipment or providing paid student services to other students?
 
 14. Would student-email verification make you feel safer using a student-only sharing platform?
 
