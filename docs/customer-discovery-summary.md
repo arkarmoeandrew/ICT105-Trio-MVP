@@ -2,7 +2,7 @@
 
 ## Project Title
 
-RSU Nexus – Campus Equipment Lending & Student Services Marketplace
+RSU Nexus – Campus Resource Marketplace
 
 ## Target Users Studied
 
